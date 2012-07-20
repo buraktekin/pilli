@@ -1,0 +1,20 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>First-Try.html</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body bgcolor="#FFF">
+<h1 align="center" >LOG-First Try!</h1>
+
+<form action="/process-form" method="post" enctype="application/x-www-form-urlencoded">
+Username: <input type="text" name="uname" value=" " id="uname1" align="absmiddle">
+<input align="absmiddle" type="button" name="sub" value="Submit">
+</form>
+
+</body>
+</html>
